@@ -1,0 +1,12 @@
+/*Navbar and footer*/
+
+.scci-navbar {
+    background-color: rgba(0, 0, 0, 0.1) !important;
+    backdrop-filter: blur(10px) !important;
+  }
+  .scci-footer a {
+    text-decoration: none !important;
+  }
+  .scci-footer a:hover {
+    color: #d12828 !important;
+  }
